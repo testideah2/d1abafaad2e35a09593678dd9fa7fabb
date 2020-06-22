@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "com.pennymanny.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>ТЕСТ. pennymanny.store</name>
+    <name>pennymanny.store</name>
 
     <description>
         Дизайнерская одежда с доставкой по всему миру
